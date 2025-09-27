@@ -1,0 +1,1 @@
+SELECT * FROM Customers WHERE country = 'Mexico' AND age > 30;
